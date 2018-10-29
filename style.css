@@ -1,0 +1,103 @@
+
+            
+             body{
+                background-color:lightpink;
+                margin: 0 auto;
+                width: 80%;
+                margin-top: 20px;
+                 font-family:'Raleway', sans-serif; 
+            }
+            
+            .bannerbackground{
+            height:200px;
+            width:100%;
+            background-image:url("images/bubbles.jpg");
+            background-repeat:no-repeat;
+            background-size:cover;
+            background-color: #cccccc;
+            padding-top:60px;
+            font-family:;
+            font-size:75px;
+            color:darkcyan;
+            text-align: center;
+            margin-bottom:24px;
+            text-align:center;
+                
+            }  
+
+        div{font-family: 'Spicy Rice', cursive;
+                }
+
+            
+            p{
+                background-color: lightcyan;
+                
+            }
+
+ul{ list-style: none;}
+p{ padding:10px;}
+            
+            aside{
+                width:29%;
+                float:left;
+                margin-right:1%;
+                background-color: lightcyan;
+                height:400px;
+                margin-bottom:10px;
+                text-align: left;
+                
+            }
+#txt{ height: 600px}
+section{
+    
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left: 200px;
+}
+            
+            article{
+                width:70%;
+                float:right;
+                background-color: lightsteelblue;
+                height:400px;
+                margin-bottom:10px;
+                font-family: 'Pacifico', cursive;
+                text-align:center;
+                font-size: 2em;
+                
+                
+            }
+            
+            footer{
+                height:50px;
+                background-color: lightyellow;
+                clear: both;
+                margin-top:10px;
+                text-align: center;
+                padding-top: 30px;
+            }
+
+nav{ text-align:center;}
+            
+
+  nav a{
+            display:inline-block;
+            padding:10px;
+            background-color: darkcyan;
+            font-family: 'Raleway', sans-serif;
+            color:#ffffff;
+            text-decoration:none;
+            letter-spacing: 0px;
+            text-align:center;
+        
+        }
+        
+       nav a:hover{
+            text-decoration: line-through;
+            color:#fff176;
+        }
+
+        
+     
+        
+        
